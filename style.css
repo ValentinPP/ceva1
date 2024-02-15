@@ -1,11 +1,12 @@
 body{
     background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 h1{
     color: black;
     font-size: 50px;
-    position:relative;
-    justify-content: center;
-    align-content: center;
     box-shadow: 0 10px 20px red;
+    border-radius: 15px
 }
